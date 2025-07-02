@@ -9,9 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuang61&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&text_color=FFFFFF&title_color=4ECDC4" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhuang61&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=FFFFFF" />
-</div>
 
 
 
