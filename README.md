@@ -5,14 +5,6 @@
 </div>
 
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rafey.ai-FF6B6B?style=for-the-badge&labelColor=000000)](https://rafey.ai)
-  [![AI Research](https://img.shields.io/badge/🤖_AI_Research-Inactive-808080?style=for-the-badge&labelColor=000000)]()
-  [![Open Source](https://img.shields.io/badge/💻_Open_Source-Contributor-45B7D1?style=for-the-badge&labelColor=000000)]()
-  
-</div>
-
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhuang61&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0D1117&text_color=FFFFFF&icon_color=FF6B6B&title_color=4ECDC4" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuang61&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&text_color=FFFFFF&title_color=4ECDC4" />
 </div>
