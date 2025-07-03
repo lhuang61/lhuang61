@@ -6,7 +6,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhuang61&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0D1117&text_color=FFFFFF&icon_color=FF6B6B&title_color=4ECDC4" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuang61&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&text_color=FFFFFF&title_color=4ECDC4" />
 </div>
 
 
